@@ -1,5 +1,8 @@
 ## Chat GPT 
 
+## More Details 
+https://platform.openai.com/
+
 #### clone the project 
 
 #### create a file called '.env' then add
